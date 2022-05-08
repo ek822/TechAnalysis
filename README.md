@@ -1,4 +1,2 @@
-# TechAnalysis
-
-## Papers on tech topics
+# TechAnalysis (Papers on tech topics)
 Shodan:
